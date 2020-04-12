@@ -3,5 +3,5 @@
     "tip": "通知：测试测试测试测试",
     "version": 2,
     "host": "http://api.qgfun.com/",
-    "force": false
+    "force": true
 }
