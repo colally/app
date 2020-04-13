@@ -430,7 +430,7 @@ body{background: #fff;}
 }
 .swiper-wrapper{transition-delay:.3s;}
 .swiper-slide .bg1{background: url(../images/t1.png) no-repeat;background-size: 100% auto;}
-.swiper-slide .bg2{background: url(../images/t2.png) no-repeat;background-size: 100% auto;}
+.swiper-slide .bg2{background: url(http://beauty.qgfun.com/images/t2.png) no-repeat;background-size: 100% auto;}
 .swiper-slide .bg3{background: url(../images/t3.png) no-repeat;background-size: 100% auto;}
 .swiper-slide .sw{
 	width: 257px;
@@ -488,7 +488,7 @@ body{background: #fff;}
 	.dbanner {
 		width: 100%;
 		height: 437px;
-		background: url("../images/dbg.png") no-repeat;
+		background: url("http://beauty.qgfun.com/images/dbg.png") no-repeat;
 		background-size: cover;
 	}
 	.icon_logo{
