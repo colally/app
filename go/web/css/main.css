@@ -219,7 +219,7 @@ body {
 	margin-top: 77px;
 	width: 410px;
 	height: 538px;
-	background: url("../images/d2.png") no-repeat;
+	background: url("https://cdn.jsdelivr.net/gh/colally/app@c8df7bf/go/web/images/d2.png") no-repeat;
 	background-size: 100% auto
 }
 
@@ -227,7 +227,7 @@ body {
 	margin: 188px auto auto;
 	width: 115px;
 	height: 115px;
-	background: url("../images/icon_logo.png") no-repeat;
+	background: url("https://cdn.jsdelivr.net/gh/colally/app@c8df7bf/go/web/images/icon_logo.png") no-repeat;
 	background-size: 100% auto
 }
 
@@ -518,7 +518,7 @@ body {
 		margin: 99px auto auto;
 		width: 105px;
 		height: 105px;
-		background: url("../images/icon_logo.png") no-repeat;
+		background: url("https://cdn.jsdelivr.net/gh/colally/app@c8df7bf/go/web/images/icon_logo.png") no-repeat;
 		background-size: 100% auto
 	}
 
@@ -539,7 +539,7 @@ body {
 		margin-top: 33px;
 		width: 323px;
 		height: 423px;
-		background: url("../images/d2.png") no-repeat;
+		background: url("https://cdn.jsdelivr.net/gh/colally/app@c8df7bf/go/web/images/d2.png") no-repeat;
 		background-size: 100% auto
 	}
 
