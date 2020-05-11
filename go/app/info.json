@@ -1,7 +1,7 @@
 {
-    "note": "1、修复缓存导致TV播放失败的Bug<br>2、修复部分Bug<br>3、如有问题请卸载重新安装最新版",
+    "note": "1、新增下载功能，播放页面长按播放地址即可下载<br>2、修复TV播放的Bug<br>3、如有问题请卸载重新安装最新版",
     "tip": "通知：测试测试测试测试",
-    "version": 25,
+    "version": 26,
     "host": "http://api.qgfun.com/",
     "force": true
 }
