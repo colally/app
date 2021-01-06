@@ -4,6 +4,6 @@
     "version": 26,
     "splash": "https://cdn.jsdelivr.net/gh/colally/app/go/app/new_year_one.png",
     "download": "https://cdn.jsdelivr.net/gh/colally/app/go/app/new_year_one.png",
-    "force": true,
+    "force": false,
     "session":1
 }
