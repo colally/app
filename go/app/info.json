@@ -2,6 +2,7 @@
     "note": "1、新增下载功能，播放页面长按播放地址即可下载<br>2、修复TV播放的Bug<br>3、如有问题请卸载重新安装最新版",
     "tip": "通知：测试测试测试测试",
     "version": 26,
-    "host": "http://api.qgfun.com/",
+    "splash": "https://cdn.jsdelivr.net/gh/colally/app/go/app/new_year_one.png",
+    "download": "https://cdn.jsdelivr.net/gh/colally/app/go/app/new_year_one.png",
     "force": true
 }
